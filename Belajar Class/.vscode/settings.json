@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "php.suggest.basic": false,
+    "editor.formatOnSave": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "prettier.enableDebugLogs": true,
+    "prettier.endOfLine": "auto",
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.useTabs": true
+}
